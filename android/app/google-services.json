@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "363628513351",
+    "firebase_url": "https://kisaan-f12dd.firebaseio.com",
+    "project_id": "kisaan-f12dd",
+    "storage_bucket": "kisaan-f12dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363628513351:android:43dc9a391c0f9e90e8c962",
+        "android_client_info": {
+          "package_name": "com.example.kisaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363628513351-riuffeviik7rm5jnnk73iuccdsm7tuqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK14h0UyqLDPGBUrC_hQj8DrOXjh9f-ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363628513351-riuffeviik7rm5jnnk73iuccdsm7tuqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
